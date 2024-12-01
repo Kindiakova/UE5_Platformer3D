@@ -49,6 +49,6 @@ UI — User interface elements.
 6. Choose the directory where the build should be saved, and click Package.
 7. Once the build is complete, you will find an executable file and the necessary resources in the specified folder.
 
-#Gameplay video
+## Gameplay video 
 
-
+[![Watch the video](https://img.youtube.com/vi/paJjJVSb9Rw/0.jpg)](https://youtu.be/paJjJVSb9Rw)
