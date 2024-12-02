@@ -13,7 +13,7 @@ This project is a simple 3D platformer developed using Unreal Engine 5. The play
 2. Clone this repository or download the project as a ZIP archive.
 
 ```bash
-git clone https://github.com/your_project/3d_platformer.git
+git clone https://github.com/Kindiakova/UE5_Platformer3D.git
 ```
 
 3. Open the project in Unreal Engine 5:
